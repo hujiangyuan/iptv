@@ -172,11 +172,14 @@ CCTV13,http://122.224.153.162:9901/tsfile/live/0013_1.m3u8?key=txiptv
 少儿动漫,http://hlsbkmgsplive.miguvideo.com/wd_r1/2018/wasu/sedm/1000/index.m3u8?&encrypt=
 卡酷少儿,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel11003/index.m3u8
 
-明星剧场,#genre#
+电影轮播,#genre#
 周星驰,http://hls.ye23.vip/wl/huya2205.php?id=11342412
 周润发,http://hls.ye23.vip/wl/huya2205.php?id=11342387
 周润发,http://epg.112114.xyz/huya/11342387
 李连杰,http://hls.ye23.vip/wl/huya2205.php?id=11342390
 李连杰,https://epg.112114.xyz/huya/11342390
-
+蓝光大片,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24066336
+贝爷MAX厅,http://epg.112114.xyz/douyu/4332
+经典小品,http://tc-tct.douyucdn2.cn/dyliveflv3/10153463r0oBSmAG.flv?wsAuth=327f9acf257abce343423d9ca46ef9ae&token=cpn-androidmpro-0-10153463-ee6c60cb51b36154827caa4c2303ce140c03be821c37ac32&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+电视剧轮播,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1453059740
 
