@@ -416,8 +416,9 @@ CCTV13,https://iptv.luas.edu.cn/liverespath/8a2f3cd1ae4091c8d073cd239518f24cd456
 CCTV13,http://122.224.153.162:9901/tsfile/live/0013_1.m3u8?key=txiptv
 
 地方,#genre#
-重庆卫视,http://hms2944nc1972666638.live.aikan.miguvideo.com/wh7f454c46tw1589064099_-704327727/envivo_x/2018/SD/chongqing/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073739&ContentId=531262033&timezone=UTC&mtv_session=90df447b59006f4434fec2d4695f28a7&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8bbc2e41f5b3f80d0b069addb6f1df46&咪咕
+重庆卫视,http://49.235.110.121:9090/daili/小果.php?id=cqwsH265_4000&Cf.m3u8
 重庆新闻,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_3.stream/chunklist.m3u8
+贵州卫视,https://iptv.luas.edu.cn/liverespath/11e39871ee899ed6c7bddadb1c83cbd658562297/bd25603388-0-0-014fe4fb21acfc8414f969b38a29037c/index.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 湖南卫视,https://live.goodiptv.club/api/cqyx.php?id=hunanHD
 江苏卫视,https://live.goodiptv.club/api/cqyx.php?id=jiangsuHD
@@ -438,13 +439,7 @@ CCTV13,http://122.224.153.162:9901/tsfile/live/0013_1.m3u8?key=txiptv
 风云音乐,https://live.goodiptv.club/api/cqyx.php?id=fyyyHD
 央视台球,https://live.goodiptv.club/api/cqyx.php?id=ystqHD
 风云足球,https://live.goodiptv.club/api/cqyx.php?id=fyzqHD
-贵州公共,http://api2.52tb.xyz/info?id=701&token=20230331czbpek
-贵州影视,http://api2.52tb.xyz/info?id=702&token=20230331czbpek
-贵州生活,http://api2.52tb.xyz/info?id=703&token=20230331czbpek
-贵州法治,http://api2.52tb.xyz/info?id=704&token=20230331czbpek
-贵州科教,http://api2.52tb.xyz/info?id=705&token=20230331czbpek
-贵州经济,http://api2.52tb.xyz/info?id=706&token=20230331czbpek
-贵州移动,http://api2.52tb.xyz/info?id=707&token=20230331czbpek
+
 
 
 体育赛事,#genre#
@@ -521,6 +516,10 @@ CCTV13,http://122.224.153.162:9901/tsfile/live/0013_1.m3u8?key=txiptv
 周润发,http://epg.112114.xyz/huya/11342387
 李连杰,http://hls.ye23.vip/wl/huya2205.php?id=11342390
 李连杰,https://epg.112114.xyz/huya/11342390
+甄子丹,http://hls.ye23.vip/wl/huya2205.php?id=11352935
+刘德华,http://epg.112114.xyz/douyu/2516864
+古天乐,http://hls.ye23.vip/wl/huya2205.php?id=11342419
+成龙,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=34460526
 蓝光大片,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24066336
 贝爷MAX厅,http://epg.112114.xyz/douyu/4332
 经典小品,http://tc-tct.douyucdn2.cn/dyliveflv3/10153463r0oBSmAG.flv?wsAuth=327f9acf257abce343423d9ca46ef9ae&token=cpn-androidmpro-0-10153463-ee6c60cb51b36154827caa4c2303ce140c03be821c37ac32&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
