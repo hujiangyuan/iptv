@@ -457,7 +457,7 @@ CCTV13,http://122.224.153.162:9901/tsfile/live/0013_1.m3u8?key=txiptv
 五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
 五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
 劲爆体育,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43084/index.m3u8
-
+咪咕,http://gslbmgsplive.miguvideo.com/migu/sports/50zhenyhvivid12/51/20221109/index.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510198095&pid=2029000125&timestamp=20231208101724&Channel_ID=0132_10010001005&ProgramID=890966191&ParentNodeID=-99&assertID=7510198095&client_ip=183.133.75.98&SecurityKey=20231208101724&promotionId=&mvid=7510098680&mcid=500020&mpid=120000491581&playurlVersion=WX-A1-6.11.3-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&puData=27ccca68872ec09ba87c69fe6c163a8e&ddCalcu=e2871ac03c06c11ac668e8f7926ecc7089ab
 
 少儿频道,#genre#
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
