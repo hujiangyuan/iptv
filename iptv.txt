@@ -515,8 +515,10 @@ CCTV13,http://122.224.153.162:9901/tsfile/live/0013_1.m3u8?key=txiptv
 
 电影轮播,#genre#
 特辑影院,http://epg.112114.xyz/douyu/3637778
+华语经典,http://epg.112114.xyz/douyu/276200
 电影解说,http://epg.112114.xyz/douyu/9375743
 粤语经典,http://epg.112114.xyz/douyu/1226741
+周星驰经典,http://epg.112114.xyz/douyu/122402
 喜剧,http://epg.112114.xyz/douyu/9220456
 电影1,http://epg.112114.xyz/douyu/2935323
 电影2,http://epg.112114.xyz/douyu/7459925
