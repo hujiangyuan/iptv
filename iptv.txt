@@ -452,11 +452,12 @@ CCTV13,http://122.224.153.162:9901/tsfile/live/0013_1.m3u8?key=txiptv
 
 
 体育赛事,#genre#
-咪咕体育,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
+超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 超级体育,http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000009601/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=3
 五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
 五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
-劲爆体育,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43084/index.m3u8
+精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+劲爆体育,http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000029972/1.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
 
 少儿频道,#genre#
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -516,7 +517,6 @@ CCTV13,http://122.224.153.162:9901/tsfile/live/0013_1.m3u8?key=txiptv
 电影轮播,#genre#
 特辑影院,http://epg.112114.xyz/douyu/3637778
 华语经典,http://epg.112114.xyz/douyu/276200
-电影解说,http://epg.112114.xyz/douyu/9375743
 粤语经典,http://epg.112114.xyz/douyu/1226741
 周星驰经典,http://epg.112114.xyz/douyu/122402
 喜剧,http://epg.112114.xyz/douyu/9220456
