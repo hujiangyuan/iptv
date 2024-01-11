@@ -445,6 +445,11 @@ CCTV13,http://122.224.153.162:9901/tsfile/live/0013_1.m3u8?key=txiptv
 五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
 劲爆体育,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43084/index.m3u8
 百视NBA,https://bp-live03.bestv.cn/live/bestvyingyu_enhance.m3u8?auth_key=1702227621-a7e2bbed4a3845a9acef9006660265bc-0-11e4354b6e93a9de53cf8bd75bdf4c3a
+🇬🇧天空电影台MIX 4K,http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/17025/index.m3u8
+🇬🇧天空电影台4KUHD,http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/17058/index.m3u86204img2/6204
+🇬🇧天空电影台4K HDR,http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/17059/index.m3u8
+🇰🇷KBS2,http://mytv.dothome.co.kr/ch/public/3.php
+🇺🇸NBA🏀,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10860
 
 少儿频道,#genre#
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
