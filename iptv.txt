@@ -21,7 +21,7 @@ CETV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
 CETV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
 CETV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
 CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
-央视台球,https://live.goodiptv.club/api/cqyx.php?id=ystqHD
+
 
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw3964344116_67852184/ott.mobaibox.com/PLTV/3/224/3221227675/index.m3u8?icpid=3&RTS=1674379784&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb0f_80&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw1925441929_1417964840/ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8?icpid=3&RTS=1674386335&from=40&ocs=2_2409:8087:2004:20:2800:0:df6e:ec0d_80&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
@@ -317,8 +317,6 @@ CCTV央视文化精品,http://111.20.40.164/PLTV/88888893/224/3221226981/index.m
 CCTV央视文化精品,http://111.20.40.165/PLTV/88888893/224/3221226981/index.m3u8
 CCTV央视文化精品,http://111.20.40.166/PLTV/88888893/224/3221226981/index.m3u8
 CCTV央视文化精品,http://111.20.40.167/PLTV/88888893/224/3221226981/index.m3u8
-超级综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226009/1.m3u8
-
 
 
 CCTV1,https://qist.cc/live/gitv.php?id=cctv1md
@@ -382,15 +380,12 @@ CCTV17,https://qist.cc/live/gitv.php?id=cctv17cq
 内蒙古卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225786/index.m3u8
 康巴卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226234/index.m3u8
 电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
 风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
-央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
 女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
 怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
 兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
-高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
 央视文化精品,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
 重庆卫视,http://49.235.110.121:9090/daili/小果.php?id=cqwsH265_4000&Cf.m3u8
 重庆新闻,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_3.stream/chunklist.m3u8
@@ -407,21 +402,20 @@ CCTV17,https://qist.cc/live/gitv.php?id=cctv17cq
 广东卫视,https://live.goodiptv.club/api/cqyx.php?id=guangdongHD
 东南卫视,https://live.goodiptv.club/api/cqyx.php?id=henanHD
 第一剧场,https://live.goodiptv.club/api/cqyx.php?id=diyijuchangHD
-动漫秀场,https://live.goodiptv.club/api/cqyx.php?id=dmxcHD
-魅力足球,https://live.goodiptv.club/api/cqyx.php?id=mlzqHD
 风云剧场,https://live.goodiptv.club/api/cqyx.php?id=fyjcHD
 兵器科技,https://live.goodiptv.club/api/cqyx.php?id=bqkjHD
 怀旧剧场,https://live.goodiptv.club/api/cqyx.php?id=hjjcHD
 风云音乐,https://live.goodiptv.club/api/cqyx.php?id=fyyyHD
-风云足球,https://live.goodiptv.club/api/cqyx.php?id=fyzqHD
+
 
 体育赛事,#genre#
 超级体育,http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000009601/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=3
 五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
 五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
-精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-劲爆体育,http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000029972/1.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
-
+高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+风云足球,https://live.goodiptv.club/api/cqyx.php?id=fyzqHD
 
 少儿频道,#genre#
 金鹰卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8
