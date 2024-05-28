@@ -513,13 +513,11 @@ CCTV-17农村农业,http://tv.twwhwn.cn:4022/rtp/239.45.3.52:5140$1920x1080
 
 
 电影轮播,#genre#
-电影轮播,#genre#
-星爷影院[1280*720],http://159.75.85.63:35455/douyu/508118
 电影1,http://159.75.85.63:35455/douyu/3637778
 电影2,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=c357f68d7199827c89663777da40c4ee&token=cpn-androidmpro-0-20415-b6774b3b3249db1798811cfe5c393414bcc73f076e3a65fa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 4K电影,http://159.75.85.63:35455/douyu/9249162
 电影4,http://159.75.85.63:35455/douyu/122402
-电影5,http://diyp.112114.xyz/douyu/20415
-恐怖灾难,http://diyp.112114.xyz/douyu/263824
-电影7,http://diyp.112114.xyz/douyu/52787
+电影5,http://http://159.75.85.63:35455/douyu/20415
+恐怖灾难,http://159.75.85.63:35455/douyu/263824
+电影7,http://159.75.85.63:35455/douyu/52787
 经典小品,http://tc-tct.douyucdn2.cn/dyliveflv3/10153463r0oBSmAG.flv?wsAuth=327f9acf257abce343423d9ca46ef9ae&token=cpn-androidmpro-0-1015346ee6c60cb51b36154827caa4c2303ce140c03be821c37ac32&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
